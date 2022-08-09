@@ -1,4 +1,4 @@
-![Software Engineer (QA)](https://media-exp1.licdn.com/dms/image/C5616AQEN-l_n609Oyw/profile-displaybackgroundimage-shrink_350_1400/0/1660082003765?e=1665619200&v=beta&t=j7UNpAFw6AL3nkcCUPbZX9VcqUyR96ia_LQHRRnPnu0)
+![Software Engineer (QA)](https://media-exp1.licdn.com/dms/image/C5616AQF9EssVcHaM5Q/profile-displaybackgroundimage-shrink_350_1400/0/1660082349027?e=1665619200&v=beta&t=WMt_Ep5y-AlpvPmvT5W9yrSZoStTD9xDW8v0kBp_nbE)
 ### Hi there 👋, I am Shofi Ahmed Rocky
 #### Software Engineer (QA)
 

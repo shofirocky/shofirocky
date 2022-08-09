@@ -12,9 +12,10 @@ Skills: Jmeter / Postman / Linux CLI Commands / cPanel / Git / Agile / JIRA / Se
 - 📫 How to reach me: shofirocky@gmail.com || +8801729560503 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shofirocky)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shofi-ahmed-rocky-076733156/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/shofirocky)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shofirocky)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shofi-ahmed-rocky-076733156/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/c/ShofiRocky/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shofirocky&show_icons=true)  
+
 
 
 

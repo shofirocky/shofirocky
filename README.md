@@ -5,7 +5,7 @@
 
 Result-oriented  Software QA Engineer with a focus on Software Quality Assurance .  2  years of experience on Technical Support to the clients, Detect Software defects .  Skilled in Software Testing with excellent analysis, assessment and understanding abilities as well as a strong attention to small details of accurately identifying all problems and bugs quickly and effectively . 
 
-Skills: Jmeter / Postman / Agile / JIRA / Security Tesing / Linux CLI Commands / cPanel / Git 
+Skills:  Jmeter / Postman / Agile / JIRA / Security Tesing / Linux CLI Commands / cPanel / Git 
 - 🔭 I’m currently working on Software QA Engineer 
 - 🌱 I’m currently learning Automation Testing 
 - 📫 How to reach me: shofirocky@gmail.com || +8801729560503 

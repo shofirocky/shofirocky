@@ -6,8 +6,8 @@
 Result-oriented Software QA Tester with a focus on Software Quality Assurance. 3 years of experience in developing and executing comprehensive test plans, collaborating with crossfunctional teams, and implementing testing processes. Skilled in Software Testing with excellent analysis, assessment and understanding abilities as well as a strong attention to small details of accurately identifying all problems and bugs quickly and effectively. 
 
 Skills:  Jmeter / Postman / Agile / JIRA / Security Tesing / Linux CLI Commands / cPanel / Git / Cypress / Selenium / Programming Languages- Javascript, Python
-- 🔭 I’m currently working on Software QA Engineer 
-- 🌱 I’m currently learning Automation Testing 
+- 🔭 I’m currently working on Software QA Engineer based Manual and Automation testing
+- 🌱 I’m currently learning Software Security testing
 - 📫 How to reach me: shofirocky@gmail.com || +8801729560503 
 
 
